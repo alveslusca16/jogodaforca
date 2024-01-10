@@ -1,0 +1,12 @@
+arroz
+cimento
+cavalo
+livro
+gato
+homem
+cachorro
+trabalho
+trator
+maçã
+fruta
+banana
